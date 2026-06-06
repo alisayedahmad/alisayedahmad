@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ali+Sayed+Ahmad;Deep+Learning+%26+Computer+Vision;Neuromorphic+Vision+%26+Edge+AI;ENSTA+%E2%80%93+Institut+Polytechnique+de+Paris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ali+Sayed+Ahmad;Deep+Learning+%26+Computer+Vision;Machine+Learning+%26+Data+Science;Neuromorphic+Vision+%26+Edge+AI;Time+Series+%26+Signal+Processing;ENSTA+%E2%80%93+Institut+Polytechnique+de+Paris)](https://git.io/typing-svg)
 
 <br/>
 
