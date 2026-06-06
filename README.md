@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D1117&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ali+Sayed+Ahmad;Deep+Learning+%26+Computer+Vision;Neuromorphic+Vision+%26+Edge+AI;ENSTA+%E2%80%93+Institut+Polytechnique+de+Paris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ali+Sayed+Ahmad;Deep+Learning+%26+Computer+Vision;Neuromorphic+Vision+%26+Edge+AI;ENSTA+%E2%80%93+Institut+Polytechnique+de+Paris)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--sayedahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sayedahmad)
 [![Email](https://img.shields.io/badge/ali.sayed%40ensta.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.sayed@ensta.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-alisayedahmad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisayedahmad)
-![Profile Views](https://komarev.com/ghpvc/?username=alisayedahmad&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=alisayedahmad&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -191,7 +191,7 @@ Détection de défauts sur moteurs électriques par caméra événementielle Pro
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alisayedahmad&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=alisayedahmad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisayedahmad&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 <br/>
