@@ -191,12 +191,16 @@ Détection de défauts sur moteurs électriques par caméra événementielle Pro
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alisayedahmad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisayedahmad&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alisayedahmad&theme=github_dark" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisayedahmad&theme=github_dark" height="160"/>
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alisayedahmad&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisayedahmad&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
