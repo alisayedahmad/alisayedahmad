@@ -54,7 +54,7 @@ Ingénieur formé à l'**ENSTA Bretagne – IP Paris**, je construis des systèm
 <td width="50%" valign="top">
 
 ### 🎯 SIAMOIS — Reconnaissance SAR
-**ENSTA Bretagne / Lab-STICC · Défense**
+**ENSTA Bretagne / Lab-STICC**
 
 Réseaux siamois contrastifs & triplets sur MSTAR (10 classes véhicules militaires, imagerie radar).
 
