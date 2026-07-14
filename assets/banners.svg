@@ -1,0 +1,97 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ali Sayed Ahmad — Deep Learning and Computer Vision">
+  <title>Ali Sayed Ahmad</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f16"/>
+      <stop offset="55%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name{font:700 54px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+      .role{font:400 21px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#9da7b3;letter-spacing:.5px}
+      .mono{font:500 15px 'Courier New',monospace;fill:#58a6ff;letter-spacing:.5px}
+      .pill{font:600 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#c9d1d9}
+      @keyframes p{0%,100%{opacity:.18}50%{opacity:1}}
+      .nd{animation:p 2.8s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <rect x="3" y="3" width="1194" height="294" rx="20" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="3" y="3" width="1194" height="4" rx="2" fill="url(#acc)"/>
+  <circle cx="1010" cy="150" r="130" fill="url(#glow)"/>
+
+  <g stroke="#213040" stroke-width="1" opacity="0.55">
+    <line x1="640" y1="45" x2="640" y2="255"/>
+    <line x1="720" y1="45" x2="720" y2="255"/>
+    <line x1="800" y1="45" x2="800" y2="255"/>
+    <line x1="880" y1="45" x2="880" y2="255"/>
+    <line x1="960" y1="45" x2="960" y2="255"/>
+  </g>
+
+  <g stroke="url(#acc)" stroke-width="1.1" opacity="0.45" fill="none">
+    <line x1="672" y1="95"  x2="772" y2="80"/>
+    <line x1="672" y1="95"  x2="772" y2="150"/>
+    <line x1="672" y1="150" x2="772" y2="150"/>
+    <line x1="672" y1="150" x2="772" y2="220"/>
+    <line x1="672" y1="205" x2="772" y2="150"/>
+    <line x1="672" y1="205" x2="772" y2="220"/>
+    <line x1="772" y1="80"  x2="882" y2="120"/>
+    <line x1="772" y1="150" x2="882" y2="120"/>
+    <line x1="772" y1="150" x2="882" y2="185"/>
+    <line x1="772" y1="220" x2="882" y2="185"/>
+  </g>
+
+  <g fill="#58a6ff">
+    <circle class="nd" cx="672" cy="95"  r="6" style="animation-delay:0s"/>
+    <circle class="nd" cx="672" cy="150" r="6" style="animation-delay:.4s"/>
+    <circle class="nd" cx="672" cy="205" r="6" style="animation-delay:.8s"/>
+  </g>
+  <g fill="#8b5cf6">
+    <circle class="nd" cx="772" cy="80"  r="6" style="animation-delay:.3s"/>
+    <circle class="nd" cx="772" cy="150" r="6" style="animation-delay:.7s"/>
+    <circle class="nd" cx="772" cy="220" r="6" style="animation-delay:1.1s"/>
+  </g>
+  <g fill="#2dd4bf">
+    <circle class="nd" cx="882" cy="120" r="6" style="animation-delay:.6s"/>
+    <circle class="nd" cx="882" cy="185" r="6" style="animation-delay:1s"/>
+  </g>
+
+  <g transform="translate(1010,150)">
+    <circle r="58" fill="none" stroke="#263041" stroke-width="6"/>
+    <circle r="58" fill="none" stroke="url(#acc)" stroke-width="6" stroke-linecap="round" stroke-dasharray="70 250">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="10" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect x="0" y="34" width="2.5" height="232" fill="url(#acc)" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" values="628 0;1150 0;628 0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="58" y="122" class="name">Ali Sayed Ahmad</text>
+  <rect x="60" y="140" height="4" rx="2" fill="url(#acc)" width="0">
+    <animate attributeName="width" values="0;452" dur="1.3s" fill="freeze"/>
+  </rect>
+  <text x="60" y="182" class="role">Deep Learning · Computer Vision · Neuromorphic &amp; Edge AI</text>
+  <text x="60" y="216" class="mono">Research &#8594; Production   ·   Open to US / Europe · 2026</text>
+
+  <g>
+    <rect x="60" y="234" width="118" height="30" rx="15" fill="#1f2733" stroke="#30363d"/>
+    <text x="119" y="254" class="pill" text-anchor="middle">Few-Shot ML</text>
+    <rect x="188" y="234" width="150" height="30" rx="15" fill="#1f2733" stroke="#30363d"/>
+    <text x="263" y="254" class="pill" text-anchor="middle">Spiking Neural Nets</text>
+    <rect x="348" y="234" width="132" height="30" rx="15" fill="#1f2733" stroke="#30363d"/>
+    <text x="414" y="254" class="pill" text-anchor="middle">Edge Deployment</text>
+  </g>
+</svg>
