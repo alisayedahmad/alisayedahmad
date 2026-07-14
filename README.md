@@ -1,231 +1,147 @@
+<!--
+  GitHub profile README → repo: github.com/alisayedahmad/alisayedahmad  (file: README.md on main)
+  DEPLOYMENT: also commit the folder  assets/banner.svg  to that same repo.
+  The banner is a custom animated SVG (rotating ring, pulsing nodes, sweeping scan line).
+-->
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Ali Sayed Ahmad — Deep Learning & Computer Vision" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ali-sayedahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ali.sayed@ensta.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/alisayedahmad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Available-Oct_2026-2EA44F?style=for-the-badge"/>
+</p>
+
+---
+
+### 🧠 About
+
+M.Sc. engineer from **ENSTA Bretagne – Institut Polytechnique de Paris** (AI & Observation Systems),
+currently an R&D intern at **Schneider Electric Hive R&D** on *neuromorphic vision for predictive
+maintenance*. I build vision and multimodal systems end-to-end — from raw data and controlled experiments
+to compressed models running on edge hardware — with a strong bias toward **rigorous evaluation**:
+ablations, controlled baselines, reproducibility.
+
+```python
+class AliSayedAhmad:
+    def __init__(self):
+        self.role   = "Deep Learning & Computer Vision Engineer"
+        self.now    = "Event-camera fault detection for industrial motors @ Schneider Electric"
+        self.focus  = ["Computer Vision", "Few-Shot / Meta-Learning",
+                       "Edge & Neuromorphic AI", "Multimodal LLMs"]
+        self.method = ["controlled baselines", "ablation studies", "reproducible pipelines"]
+        self.status = "Open to Research / DL Engineer roles — US & Europe — from Oct 2026"
+```
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,linux,bash,anaconda&theme=dark" alt="skills"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58a6ff&background=FFFFFF00&center=true&vCenter=true&width=700&lines=Ali+Sayed+Ahmad;Deep+Learning+%26+Computer+Vision;Machine+Learning+%26+Data+Science;Neuromorphic+Vision+%26+Edge+AI;Time+Series+%26+Signal+Processing;ENSTA+%E2%80%93+Institut+Polytechnique+de+Paris)](https://git.io/typing-svg)
+<br/><br/>
 
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--sayedahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sayedahmad)
-[![Email](https://img.shields.io/badge/ali.sayed%40ensta.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.sayed@ensta.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-alisayedahmad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisayedahmad)
-![Profile Views](https://komarev.com/ghpvc/?username=alisayedahmad&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/DINOv2-5A29E4?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-8957E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hydra-54C7EC?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prophesee%20Event%20Cameras-1F2733?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spiking%20NNs-1F2733?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-189AC7?style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧠 À propos
-
-```python
-class AliSayedAhmad:
-    def __init__(self):
-        self.school     = "ENSTA Bretagne – Institut Polytechnique de Paris"
-        self.degree     = "Ingénieur IA & Systèmes d'Observation"
-        self.current    = "PFE @ Schneider Electric Hive R&D — Vision Neuromorphique"
-        self.focus      = ["Deep Learning", "Computer Vision", "Edge AI", "Neuromorphic Sensing"]
-        self.languages  = {"French": "C1", "English": "C1", "Arabic": "native", "German": "A2"}
-
-    def now(self):
-        return "Développement de pipelines vision événementielle pour la maintenance prédictive industrielle"
-```
-
-Ingénieur formé à l'**ENSTA Bretagne – IP Paris**, je construis des systèmes de vision intelligents à l'intersection de la recherche et du produit : caméras événementielles, vision temps réel, déploiement embarqué. Du prototype à la production.
-
----
-
-## 💼 Expérience
-
-**`03/2026 → 09/2026`** &nbsp;|&nbsp; 🏭 **Schneider Electric Hive R&D** — *Ingénieur R&D, Vision Neuromorphique (PFE)*
-> Pipeline caméra événementielle Prophesee · Estimation de vitesse de rotation moteurs · Détection de défauts mécaniques · Analyse de signatures dynamiques événementielles
-
-**`05/2025 → 08/2025`** &nbsp;|&nbsp; 🎧 **OSO-AI, Brest** — *Ingénieur ML, Traitement Audio*
-> Clustering audio non supervisé (MobileNet V3 + spectrogrammes mel) · **−40% de temps d'annotation** · Reconnaissance d'émotions zero-shot (CLAP) · Déploiement Streamlit en production
-
-**`06/2024 → 08/2024`** &nbsp;|&nbsp; ⚡ **Candia, Beyrouth** — *Ingénieur ML, Optimisation Énergétique*
-> Prévision sur 17 000+ capteurs IoT · Production solaire & demande électrique · **−11% de consommation carburant** diesel · Dashboard temps réel
-
----
-
-## 🚀 Projets
+### 🔬 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎯 SIAMOIS — Reconnaissance SAR
-**ENSTA Bretagne / Lab-STICC**
-
-Réseaux siamois contrastifs & triplets sur MSTAR (10 classes véhicules militaires, imagerie radar).
-
-- 📈 `95.18%` → **`99.02%`** de précision
-- 🔬 57 expériences · 6 axes hyperparamétriques · 3 seeds
-- 🏆 Batch All mining surpasse Batch Hard de **+1.39%** en few-shot
-
-`PyTorch` `Meta-learning` `Transfer Learning` `SAR`
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/FewDetect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=FewDetect&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>ProtoNets vs MAML vs LoRA on a shared DINOv2 backbone.</b><br/>Cosine ProtoNets win: <b>95.5%</b> CIFAR-100 5-shot · <b>85.8%</b> COCO-novel.</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🐋 Classification Vocalisations Baleines
-**bioDCASE · 1 292h d'enregistrements antarctiques**
-
-7 classes de vocalisations (baleines bleues & rorquals) à partir de spectrogrammes STFT.
-
-- 📈 XGBoost : **88% accuracy**, F1 ≥ 0.90
-- 🎵 6 007 fichiers WAV · 2005–2017
-- ⚙️ Pipeline SVM / RF / XGBoost / NN + clustering
-
-`scikit-learn` `XGBoost` `librosa` `Streamlit`
-
-[![Repo](https://img.shields.io/badge/GitHub-antarctic--whale-181717?style=flat-square&logo=github)](https://github.com/alisayedahmad/antarctic-whale-vocalization-classification)
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/EdgeVision_Compress">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=EdgeVision_Compress&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>Prune → structured prune → QAT → distillation for edge.</b><br/>Student <b>23.9× smaller, 31.9× faster</b>, −0.12% AUROC · ~40 FPS on Pi 4.</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🛰️ Segmentation Satellite (SpaceNet 2/3)
-**Bâtiments & routes · Imagerie géospatiale**
-
-Pipeline end-to-end de segmentation sémantique sur imagerie satellite.
-
-- 🏗️ U-Net (ResNet34/50) · DeepLabV3+ (ResNet101)
-- 📐 Tiling 512×512 · blending · export GeoTIFF/GeoJSON
-- 🎯 mIoU ≥ 0.75 (bâtiments) · APLS (routes)
-
-`PyTorch Lightning` `rasterio` `geopandas` `Docker`
-
-[![Repo](https://img.shields.io/badge/GitHub-sat--segmentation-181717?style=flat-square&logo=github)](https://github.com/alisayedahmad/SIS)
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/medvision-report">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=medvision-report&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>Grounded chest-X-ray → clinical report</b> <i>(design-first)</i>.<br/>DINOv2+LoRA vs U-Net · CheXpert-F1 / BLEU / ROUGE evaluation.</sub>
 </td>
-<td width="50%" valign="top">
-
-### ⚽ Analyse Football Temps Réel
-**Tracking multi-objets · Broadcast AI**
-
-Détection et suivi de joueurs et ballon en temps réel depuis flux vidéo.
-
-- ⚡ **45–60 FPS** · mAP50 : **0.85+**
-- 📊 Vitesse, possession, heatmaps
-- 🚀 Déploiement ONNX / TensorRT embarqué
-
-`YOLOv8` `DeepSORT` `TensorRT` `ONNX`
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/antarctic-whale-vocalization-classification">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=antarctic-whale-vocalization-classification&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>7-class blue/fin whale call classification.</b><br/>bioDCASE, 1,292 h audio · XGBoost <b>88% acc</b>, F1 ≥ 0.90.</sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🤖 Assistant RAG Algorithmique
-**LLM Local · Aide à la résolution de problèmes**
-
-Pipeline RAG pour l'analyse de problèmes algorithmiques et la génération de hints progressifs.
-
-- 🧠 CodeBERT + ChromaDB + **Mistral-7B** (local)
-- 🎯 Précision top-3 : **78%**
-- 🔐 Exécution sandbox automatisée
-
-`RAG` `LangChain` `ChromaDB` `Mistral` `CodeBERT`
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/SIS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=SIS&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>Building & road segmentation on SpaceNet / DeepGlobe.</b><br/>U-Net & DeepLabV3+ · <b>mIoU ≥ 0.75</b> · GeoTIFF / GeoJSON export.</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🏭 Vision Neuromorphique Industrielle
-**Schneider Electric · En cours (2026)**
-
-Détection de défauts sur moteurs électriques par caméra événementielle Prophesee.
-
-- 👁️ Event Frame · Voxel Grid · Time Surface
-- 🔧 Balourd · désalignement · usure roulements
-- ⚡ Traitement de flux asynchrones temps réel
-
-`Event Camera` `PyTorch` `Prophesee SDK` `Edge AI`
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/alisayedahmad/ConVisuel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=ConVisuel&theme=tokyonight&border_radius=10"/>
+</a>
+<br/><sub><b>Interactive CNN math visualizer.</b><br/>Convolution as a linear operator · Toeplitz form · gradient flow.</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Stack Technique
-
-**Deep Learning & Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Neuromorphique & Edge**
-
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-**ML & Data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AC7?style=flat-square&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**MLOps & Déploiement**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Langages**
-
-![Python](https://img.shields.io/badge/Python%20(expert)-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alisayedahmad&theme=github_dark" height="160"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisayedahmad&theme=github_dark" height="160"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alisayedahmad&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisayedahmad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alisayedahmad&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alisayedahmad&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alisayedahmad&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=8b5cf6&point=2dd4bf"/>
 
 </div>
 
 ---
 
-## 🎓 Formation & Certifications
+### 💼 Experience
 
-| Diplôme | École | Période |
-|---------|-------|---------|
-| Ingénieur IA & Systèmes d'Observation | **ENSTA Bretagne – Institut Polytechnique de Paris** | 2024 – 2026 |
-| Ingénieur Électrique & Télécoms (Double diplôme) | Université Libanaise | 2020 – 2026 |
+- **Schneider Electric — Hive R&D** *(2026)* — R&D Engineer: event-camera pipeline (Event Frame / Voxel Grid / Time Surface) for motor speed estimation and mechanical/electrical fault detection; controlled CNN vs SNN comparative study.
+- **OSO-AI** *(2025)* — ML Engineer (audio): unsupervised clustering (MobileNetV3 + mel-spectrograms) cutting annotation time ~40%; zero-shot CLAP classifier deployed via Streamlit.
+- **Candia** *(2024)* — ML Engineer (energy): forecasting on 17k+ IoT sensor points; **−11% diesel fuel** consumption; real-time decision dashboards.
 
-**Certifications** : Machine Learning & Deep Learning Specializations *(DeepLearning.AI · Andrew Ng)* · PyTorch Professional Certificate · Generative AI with LangChain & HuggingFace · MLOps Bootcamp
+### 🎓 Education
+
+- **M.Sc. Engineering — AI & Observation Systems** · ENSTA Bretagne – IP Paris *(2024–2026)*
+- **Engineering — Electrical & Telecommunications** · Lebanese University *(dual degree, 2020–2026)*
 
 ---
 
-<div align="center">
-
-**Disponible pour un CDI en Deep Learning / Computer Vision · Paris & remote**
-
-[![LinkedIn](https://img.shields.io/badge/Me+contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sayedahmad)
-[![Email](https://img.shields.io/badge/ali.sayed%40ensta.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.sayed@ensta.fr)
-
-*"Build systems that see, think, and act — at the edge of what's possible."*
-
-</div>
+<p align="center">
+  <b>Let's build systems that see, decide, and run at the edge.</b><br/>
+  <a href="https://linkedin.com/in/ali-sayedahmad">LinkedIn</a> ·
+  <a href="mailto:ali.sayed@ensta.fr">ali.sayed@ensta.fr</a> ·
+  <a href="https://github.com/alisayedahmad">GitHub</a>
+</p>
