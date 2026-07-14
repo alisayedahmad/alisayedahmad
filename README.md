@@ -66,61 +66,73 @@ class AliSayedAhmad:
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/FewDetect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=FewDetect&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>ProtoNets vs MAML vs LoRA on a shared DINOv2 backbone.</b><br/>Cosine ProtoNets win: <b>95.5%</b> CIFAR-100 5-shot · <b>85.8%</b> COCO-novel.</sub>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/FewDetect">FewDetect</a></h4>
+<p>ProtoNets vs MAML vs LoRA on a shared DINOv2 backbone.<br/><b>95.5%</b> CIFAR-100 5-shot · <b>85.8%</b> COCO-novel — cosine ProtoNets win.</p>
+<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/DINOv2-5A29E4?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Meta--Learning-8957E5?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Few--Shot-2DD4BF?style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/FewDetect"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
 </td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/EdgeVision_Compress">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=EdgeVision_Compress&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>Prune → structured prune → QAT → distillation for edge.</b><br/>Student <b>23.9× smaller, 31.9× faster</b>, −0.12% AUROC · ~40 FPS on Pi 4.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/medvision-report">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=medvision-report&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>Grounded chest-X-ray → clinical report</b> <i>(design-first)</i>.<br/>DINOv2+LoRA vs U-Net · CheXpert-F1 / BLEU / ROUGE evaluation.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/antarctic-whale-vocalization-classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=antarctic-whale-vocalization-classification&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>7-class blue/fin whale call classification.</b><br/>bioDCASE, 1,292 h audio · XGBoost <b>88% acc</b>, F1 ≥ 0.90.</sub>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/EdgeVision_Compress">EdgeVision-Compress</a></h4>
+<p>Prune → structured prune → QAT → distillation for edge deployment.<br/>Student <b>23.9× smaller, 31.9× faster</b>, −0.12% AUROC · ~40 FPS on Pi 4.</p>
+<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/MVTec%20AD-555?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/EdgeVision_Compress"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/SIS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=SIS&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>Building & road segmentation on SpaceNet / DeepGlobe.</b><br/>U-Net & DeepLabV3+ · <b>mIoU ≥ 0.75</b> · GeoTIFF / GeoJSON export.</sub>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/medvision-report">MedVision-Report</a></h4>
+<p>Grounded chest-X-ray → clinical report <i>(design-first)</i>.<br/>DINOv2+LoRA vs U-Net · CheXpert-F1 / BLEU / ROUGE evaluation.</p>
+<p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-8957E5?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/LLM-2DD4BF?style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/medvision-report"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
 </td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/alisayedahmad/ConVisuel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alisayedahmad&repo=ConVisuel&theme=tokyonight&border_radius=10"/>
-</a>
-<br/><sub><b>Interactive CNN math visualizer.</b><br/>Convolution as a linear operator · Toeplitz form · gradient flow.</sub>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/antarctic-whale-vocalization-classification">Antarctic Whale Vocalizations</a></h4>
+<p>7-class blue/fin whale call classification from spectrograms.<br/>bioDCASE, 1,292 h audio · XGBoost <b>88% acc</b>, F1 ≥ 0.90.</p>
+<p><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/XGBoost-189AC7?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/librosa-555?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/antarctic-whale-vocalization-classification"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/SIS">Satellite Segmentation</a></h4>
+<p>Building & road segmentation on SpaceNet / DeepGlobe.<br/>U-Net & DeepLabV3+ · <b>mIoU ≥ 0.75</b> · GeoTIFF / GeoJSON export.</p>
+<p><img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?logo=lightning&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/rasterio-3776AB?style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/GIS-2DD4BF?style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/SIS"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🔹 <a href="https://github.com/alisayedahmad/ConVisuel">ConVisuel</a></h4>
+<p>Interactive mathematical visualizer of CNNs.<br/>Convolution as a linear operator · Toeplitz form · gradient flow.</p>
+<p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=flat-square" height="20"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" height="20"/></p>
+<p><a href="https://github.com/alisayedahmad/ConVisuel"><img src="https://img.shields.io/badge/→%20View%20repository-24292F?style=flat-square&logo=github&logoColor=white" height="22"/></a></p>
 </td>
 </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alisayedahmad&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisayedahmad&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=alisayedahmad&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=8b5cf6&point=2dd4bf"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=alisayedahmad&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&line=8b5cf6&point=2dd4bf"/>
 
 </div>
 
